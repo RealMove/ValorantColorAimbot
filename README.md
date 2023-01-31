@@ -1,2 +1,3 @@
-# ValorantColorAimbot
-An Undetected Valorant Aimbot
+# Valorant Color Aimbot
+
+## [Discord 💥](https://mkosir.github.io/react-parallax-tilt)
